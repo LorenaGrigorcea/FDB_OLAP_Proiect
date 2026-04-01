@@ -2,7 +2,7 @@
 ## Arhitectură de baze de date federate pentru analiza transportului public urban din municipiul Iași
 
 ### Descriere generală
-Acest repository conține proiectul realizat în cadrul disciplinei FDB/OLAP și urmărește proiectarea și implementarea unei arhitecturi de baze de date federate pentru analiza transportului public urban din municipiul Iași.
+Acest repository conține proiectul FDB/OLAP și urmărește proiectarea și implementarea unei arhitecturi de baze de date federate pentru analiza transportului public urban din municipiul Iași.
 
 Ideea centrală a proiectului este integrarea unor surse de date eterogene, provenite din tehnologii și modele diferite, într-o structură unitară de acces și analiză. Au fost utilizate surse relaționale pentru date tranzacționale și operaționale, o sursă de tip graf pentru modelarea rețelei de transport și o sursă documentară bazată pe fișiere JSON pentru evenimente și incidente operaționale. Pe baza acestora a fost construit un model de acces federat, un model de integrare și un strat analitic orientat spre interogări multidimensionale de tip ROLAP.
 
