@@ -1,0 +1,62 @@
+[
+  {
+    "work_id": "MW001",
+    "start_ts": "2026-03-06T22:00:00",
+    "end_ts": "2026-03-07T05:00:00",
+    "line_id": "L002",
+    "route_id": "R003",
+    "affected_stops": ["S006", "S007", "S008"],
+    "work_type": "Rail repair",
+    "impact_level": "high"
+  },
+  {
+    "work_id": "MW002",
+    "start_ts": "2026-03-08T23:00:00",
+    "end_ts": "2026-03-09T04:30:00",
+    "line_id": "L003",
+    "route_id": "R005",
+    "affected_stops": ["S009", "S010"],
+    "work_type": "Electrical maintenance",
+    "impact_level": "medium"
+  },
+  {
+    "work_id": "MW003",
+    "start_ts": "2026-03-10T21:30:00",
+    "end_ts": "2026-03-11T03:00:00",
+    "line_id": "L001",
+    "route_id": "R001",
+    "affected_stops": ["S002", "S003", "S004"],
+    "work_type": "Road surface repair",
+    "impact_level": "medium"
+  },
+  {
+    "work_id": "MW004",
+    "start_ts": "2026-03-12T22:15:00",
+    "end_ts": "2026-03-13T05:45:00",
+    "line_id": "L005",
+    "route_id": "R008",
+    "affected_stops": ["S014", "S015", "S016"],
+    "work_type": "Track inspection",
+    "impact_level": "high"
+  },
+  {
+    "work_id": "MW005",
+    "start_ts": "2026-03-14T20:00:00",
+    "end_ts": "2026-03-14T23:59:00",
+    "line_id": "L004",
+    "route_id": "R006",
+    "affected_stops": ["S011", "S012"],
+    "work_type": "Signal system testing",
+    "impact_level": "low"
+  },
+  {
+    "work_id": "MW006",
+    "start_ts": "2026-03-15T22:30:00",
+    "end_ts": "2026-03-16T04:00:00",
+    "line_id": "L006",
+    "route_id": "R009",
+    "affected_stops": ["S017", "S018", "S019"],
+    "work_type": "Vehicle platform maintenance",
+    "impact_level": "medium"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "telemetry_id": "TEL001",
+    "ts": "2026-03-01T07:46:10",
+    "vehicle_id": "V001",
+    "line_id": "L001",
+    "route_id": "R001",
+    "stop_id": "S003",
+    "speed": 18.5,
+    "occupancy_estimate": 42
+  },
+  {
+    "telemetry_id": "TEL002",
+    "ts": "2026-03-01T07:48:25",
+    "vehicle_id": "V002",
+    "line_id": "L001",
+    "route_id": "R002",
+    "stop_id": "S004",
+    "speed": 21.0,
+    "occupancy_estimate": 35
+  },
+  {
+    "telemetry_id": "TEL003",
+    "ts": "2026-03-01T09:11:40",
+    "vehicle_id": "V005",
+    "line_id": "L003",
+    "route_id": "R005",
+    "stop_id": "S010",
+    "speed": 0.0,
+    "occupancy_estimate": 57
+  },
+  {
+    "telemetry_id": "TEL004",
+    "ts": "2026-03-02T12:22:05",
+    "vehicle_id": "V003",
+    "line_id": "L002",
+    "route_id": "R003",
+    "stop_id": "S007",
+    "speed": 6.2,
+    "occupancy_estimate": 68
+  },
+  {
+    "telemetry_id": "TEL005",
+    "ts": "2026-03-03T06:57:30",
+    "vehicle_id": "V007",
+    "line_id": "L004",
+    "route_id": "R006",
+    "stop_id": "S012",
+    "speed": 12.4,
+    "occupancy_estimate": 50
+  },
+  {
+    "telemetry_id": "TEL006",
+    "ts": "2026-03-03T18:42:15",
+    "vehicle_id": "V009",
+    "line_id": "L005",
+    "route_id": "R008",
+    "stop_id": "S015",
+    "speed": 4.8,
+    "occupancy_estimate": 73
+  },
+  {
+    "telemetry_id": "TEL007",
+    "ts": "2026-03-04T08:07:55",
+    "vehicle_id": "V001",
+    "line_id": "L001",
+    "route_id": "R002",
+    "stop_id": "S004",
+    "speed": 15.9,
+    "occupancy_estimate": 39
+  },
+  {
+    "telemetry_id": "TEL008",
+    "ts": "2026-03-04T14:17:20",
+    "vehicle_id": "V010",
+    "line_id": "L006",
+    "route_id": "R009",
+    "stop_id": "S018",
+    "speed": 0.0,
+    "occupancy_estimate": 61
+  },
+  {
+    "telemetry_id": "TEL009",
+    "ts": "2026-03-05T16:31:45",
+    "vehicle_id": "V011",
+    "line_id": "L007",
+    "route_id": "R011",
+    "stop_id": "S020",
+    "speed": 7.3,
+    "occupancy_estimate": 46
+  },
+  {
+    "telemetry_id": "TEL010",
+    "ts": "2026-03-05T16:35:10",
+    "vehicle_id": "V012",
+    "line_id": "L007",
+    "route_id": "R011",
+    "stop_id": "S021",
+    "speed": 19.6,
+    "occupancy_estimate": 33
+  },
+  {
+    "telemetry_id": "TEL011",
+    "ts": "2026-03-06T08:10:00",
+    "vehicle_id": "V004",
+    "line_id": "L002",
+    "route_id": "R004",
+    "stop_id": "S009",
+    "speed": 24.2,
+    "occupancy_estimate": 29
+  },
+  {
+    "telemetry_id": "TEL012",
+    "ts": "2026-03-06T08:14:18",
+    "vehicle_id": "V006",
+    "line_id": "L003",
+    "route_id": "R005",
+    "stop_id": "S010",
+    "speed": 16.7,
+    "occupancy_estimate": 48
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "event_id": "EV001",
+    "event_date": "2026-03-07",
+    "area": "Copou",
+    "event_type": "meci",
+    "expected_traffic_multiplier": 1.8
+  },
+  {
+    "event_id": "EV002",
+    "event_date": "2026-03-08",
+    "area": "Centru",
+    "event_type": "festival",
+    "expected_traffic_multiplier": 2.1
+  },
+  {
+    "event_id": "EV003",
+    "event_date": "2026-03-10",
+    "area": "Tătărași",
+    "event_type": "concert",
+    "expected_traffic_multiplier": 1.5
+  },
+  {
+    "event_id": "EV004",
+    "event_date": "2026-03-12",
+    "area": "Nicolina",
+    "event_type": "târg",
+    "expected_traffic_multiplier": 1.4
+  },
+  {
+    "event_id": "EV005",
+    "event_date": "2026-03-14",
+    "area": "Alexandru cel Bun",
+    "event_type": "meci",
+    "expected_traffic_multiplier": 1.7
+  },
+  {
+    "event_id": "EV006",
+    "event_date": "2026-03-15",
+    "area": "Centru",
+    "event_type": "maraton",
+    "expected_traffic_multiplier": 2.3
+  }
+]
